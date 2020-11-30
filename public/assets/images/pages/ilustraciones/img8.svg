@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1120" height="1053" viewBox="0 0 1120 1053">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f8f8f8"/>
+      <stop offset="1" stop-color="#f4e9d4"/>
+    </radialGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_28823" data-name="Rectángulo 28823" width="824.228" height="827.635" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_28525" data-name="Grupo 28525" transform="translate(-140 -3791)">
+    <rect id="Rectángulo_29175" data-name="Rectángulo 29175" width="1120" height="1053" transform="translate(140 3791)" opacity="0.57" fill="url(#radial-gradient)"/>
+    <g id="Grupo_28498" data-name="Grupo 28498">
+      <g id="Grupo_27350" data-name="Grupo 27350">
+        <g id="Grupo_26857" data-name="Grupo 26857" transform="translate(0 20)">
+          <g id="Grupo_26855" data-name="Grupo 26855" transform="translate(31 -19)">
+            <g id="Grupo_26847" data-name="Grupo 26847" transform="translate(-7 22)">
+              <path id="Trazado_68598" data-name="Trazado 68598" d="M173.171,292.3a11.128,11.128,0,1,1-11.131-11.13,11.13,11.13,0,0,1,11.131,11.13" transform="translate(385.875 4160.862)" fill="#4d4d4d"/>
+              <path id="Trazado_68599" data-name="Trazado 68599" d="M168.175,290.513a7.918,7.918,0,1,1-7.919-7.913,7.914,7.914,0,0,1,7.919,7.913" transform="translate(387.662 4162.653)" fill="#fff"/>
+              <path id="Trazado_68600" data-name="Trazado 68600" d="M165.478,289.549a6.186,6.186,0,1,1-6.188-6.181,6.182,6.182,0,0,1,6.188,6.181" transform="translate(388.624 4163.617)" fill="#379be1"/>
+            </g>
+          </g>
+          <path id="Trazado_68606" data-name="Trazado 68606" d="M238.816,155.51a11.129,11.129,0,1,1-11.128-11.13,11.126,11.126,0,0,1,11.128,11.13" transform="translate(458.254 3999.192)" fill="#4d4d4d"/>
+          <path id="Trazado_68607" data-name="Trazado 68607" d="M233.809,153.721a7.914,7.914,0,1,1-7.906-7.913,7.907,7.907,0,0,1,7.906,7.913" transform="translate(460.041 4000.984)" fill="#fff"/>
+          <path id="Trazado_68608" data-name="Trazado 68608" d="M231.115,152.756a6.183,6.183,0,1,1-6.176-6.181,6.177,6.177,0,0,1,6.176,6.181" transform="translate(461.005 4001.947)" fill="#2874a6"/>
+          <path id="Trazado_68609" data-name="Trazado 68609" d="M224.114,164.2a1.914,1.914,0,0,1-.232-2.7l23.675-28.192a1.9,1.9,0,0,1,1.466-.681H361.286a1.914,1.914,0,1,1,0,3.829H249.918l-23.1,27.506a1.919,1.919,0,0,1-2.7.237" transform="translate(466.881 3984.444)" fill="#4d4d4d"/>
+          <path id="Trazado_68601" data-name="Trazado 68601" d="M224.475,369.536a1.9,1.9,0,0,1-1.468-.688l-64.767-77.1a1.917,1.917,0,0,1,2.936-2.467L225.363,365.7h111.37a1.917,1.917,0,0,1,0,3.833Z" transform="translate(414.505 4167.18)" fill="#4d4d4d"/>
+          <path id="Trazado_68602" data-name="Trazado 68602" d="M238.816,223.9a11.129,11.129,0,1,0-11.128,11.13,11.131,11.131,0,0,0,11.128-11.13" transform="translate(451.254 4113.029)" fill="#4d4d4d"/>
+          <path id="Trazado_68603" data-name="Trazado 68603" d="M233.809,222.118a7.914,7.914,0,1,0-7.906,7.924,7.911,7.911,0,0,0,7.906-7.924" transform="translate(453.041 4114.814)" fill="#fff"/>
+          <path id="Trazado_68604" data-name="Trazado 68604" d="M231.115,221.153a6.183,6.183,0,1,0-6.176,6.19,6.178,6.178,0,0,0,6.176-6.19" transform="translate(454.005 4115.78)" fill="#46aed3"/>
+          <path id="Trazado_68605" data-name="Trazado 68605" d="M249.023,252.226a1.916,1.916,0,0,1-1.468-.685L223.88,223.351a1.916,1.916,0,1,1,2.934-2.465l23.1,27.506H361.284a1.917,1.917,0,0,1,0,3.833Z" transform="translate(459.88 4122.343)" fill="#4d4d4d"/>
+          <path id="Trazado_68610" data-name="Trazado 68610" d="M173.171,87.113A11.128,11.128,0,1,1,162.04,75.982a11.134,11.134,0,0,1,11.131,11.131" transform="translate(375.875 3913.355)" fill="#4d4d4d"/>
+          <path id="Trazado_68611" data-name="Trazado 68611" d="M168.175,85.327a7.918,7.918,0,1,1-7.919-7.922,7.917,7.917,0,0,1,7.919,7.922" transform="translate(377.662 3915.141)" fill="#fff"/>
+          <path id="Trazado_68612" data-name="Trazado 68612" d="M165.478,84.362a6.186,6.186,0,1,1-6.188-6.188,6.187,6.187,0,0,1,6.188,6.188" transform="translate(378.624 3916.106)" fill="#183963"/>
+          <path id="Trazado_68613" data-name="Trazado 68613" d="M158.476,123.028a1.915,1.915,0,0,1-.234-2.7l64.765-77.106a1.905,1.905,0,0,1,1.468-.686H336.734a1.918,1.918,0,0,1,0,3.836l-111.37,0-64.19,76.428a1.914,1.914,0,0,1-2.7.235" transform="translate(384.505 3871.38)" fill="#4d4d4d"/>
+          <g id="Grupo_26845" data-name="Grupo 26845" transform="translate(-10 10)">
+            <rect id="Rectángulo_28820" data-name="Rectángulo 28820" width="824.228" height="827.635" transform="translate(196.483 3808)" fill="none"/>
+            <g id="Grupo_26834" data-name="Grupo 26834" transform="translate(196.483 3808)" clip-path="url(#clip-path)">
+              <path id="Trazado_68628" data-name="Trazado 68628" d="M210.807,444.975" transform="translate(53.759 136.806)" fill="#f8f8f8"/>
+            </g>
+            <rect id="Rectángulo_28826" data-name="Rectángulo 28826" width="824.228" height="827.635" transform="translate(196.483 3808)" fill="none"/>
+          </g>
+          <line id="Línea_358" data-name="Línea 358" x2="51" y2="55" transform="translate(432.5 4536.5)" fill="none" stroke="#4d4d4d" stroke-linecap="round" stroke-width="4"/>
+          <line id="Línea_359" data-name="Línea 359" x1="6" y1="47" transform="translate(426.5 4489.5)" fill="none" stroke="#4d4d4d" stroke-linecap="round" stroke-width="4"/>
+          <g id="Grupo_26844" data-name="Grupo 26844" transform="translate(162.483 3816)">
+            <path id="Trazado_68631" data-name="Trazado 68631" d="M173.171,292.3a11.128,11.128,0,1,1-11.131-11.13,11.13,11.13,0,0,1,11.131,11.13" transform="translate(102.392 369.862)" fill="#4d4d4d"/>
+            <path id="Trazado_68632" data-name="Trazado 68632" d="M168.175,290.513a7.918,7.918,0,1,1-7.919-7.913,7.914,7.914,0,0,1,7.919,7.913" transform="translate(104.179 371.653)" fill="#fff"/>
+            <path id="Trazado_68630" data-name="Trazado 68630" d="M165.478,289.549a6.186,6.186,0,1,1-6.188-6.181,6.182,6.182,0,0,1,6.188,6.181" transform="translate(105.141 372.617)" fill="#379be1"/>
+          </g>
+          <g id="Grupo_26851" data-name="Grupo 26851" transform="translate(235.704 -119.226)">
+            <ellipse id="Elipse_945" data-name="Elipse 945" cx="100.5" cy="98.5" rx="100.5" ry="98.5" transform="matrix(1, -0.017, 0.017, 1, 382.296, 4600.734)" fill="#a66d58"/>
+            <g id="Elipse_946" data-name="Elipse 946" transform="matrix(1, -0.017, 0.017, 1, 401.296, 4618.734)" fill="#f8f8f8" stroke="#7f9ab0" stroke-width="3">
+              <ellipse cx="82" cy="80.5" rx="82" ry="80.5" stroke="none"/>
+              <ellipse cx="82" cy="80.5" rx="80.5" ry="79" fill="none"/>
+            </g>
+          </g>
+          <g id="Grupo_26852" data-name="Grupo 26852" transform="translate(340.704 -327.226)">
+            <ellipse id="Elipse_945-2" data-name="Elipse 945" cx="100.5" cy="98.5" rx="100.5" ry="98.5" transform="matrix(1, -0.017, 0.017, 1, 382.296, 4600.734)" fill="#aed3f2"/>
+            <g id="Elipse_946-2" data-name="Elipse 946" transform="matrix(1, -0.017, 0.017, 1, 401.296, 4618.734)" fill="#f8f8f8" stroke="#7f9ab0" stroke-width="3">
+              <ellipse cx="82" cy="80.5" rx="82" ry="80.5" stroke="none"/>
+              <ellipse cx="82" cy="80.5" rx="80.5" ry="79" fill="none"/>
+            </g>
+          </g>
+          <g id="Grupo_26853" data-name="Grupo 26853" transform="translate(345.704 -586.226)">
+            <ellipse id="Elipse_945-3" data-name="Elipse 945" cx="100.5" cy="98.5" rx="100.5" ry="98.5" transform="matrix(1, -0.017, 0.017, 1, 382.296, 4600.734)" fill="#6595bf"/>
+            <g id="Elipse_946-3" data-name="Elipse 946" transform="matrix(1, -0.017, 0.017, 1, 401.296, 4618.734)" fill="#f8f8f8" stroke="#7f9ab0" stroke-width="3">
+              <ellipse cx="82" cy="80.5" rx="82" ry="80.5" stroke="none"/>
+              <ellipse cx="82" cy="80.5" rx="80.5" ry="79" fill="none"/>
+            </g>
+          </g>
+          <g id="Grupo_26854" data-name="Grupo 26854" transform="translate(212.704 -779.226)">
+            <ellipse id="Elipse_945-4" data-name="Elipse 945" cx="100.5" cy="98.5" rx="100.5" ry="98.5" transform="matrix(1, -0.017, 0.017, 1, 382.296, 4600.734)" fill="#5e6178"/>
+            <g id="Elipse_946-4" data-name="Elipse 946" transform="matrix(1, -0.017, 0.017, 1, 401.296, 4618.734)" fill="#f8f8f8" stroke="#7f9ab0" stroke-width="3">
+              <ellipse cx="82" cy="80.5" rx="82" ry="80.5" stroke="none"/>
+              <ellipse cx="82" cy="80.5" rx="80.5" ry="79" fill="none"/>
+            </g>
+          </g>
+          <text id="Es_la_entidad_encargada_de_administrar_los_impuestos_quien_está_facultado_para_exigir_el_cumplimiento_de_la_obligación._En_Colombia_los_impuestos_Nacionales_son_recaudados_por_la_Dirección_de_Impuestos_y_Aduanas_Nacionales_DIAN_." data-name="Es la entidad encargada de administrar los impuestos, quien está facultado para exigir el cumplimiento de la obligación. En Colombia los impuestos Nacionales son recaudados por la Dirección de Impuestos y Aduanas Nacionales (DIAN)." transform="translate(817 3832.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Es la entidad encargada de administrar </tspan><tspan x="0" y="41">los impuestos, quien está facultado para </tspan><tspan x="0" y="65">exigir el cumplimiento de la obligación. </tspan><tspan x="0" y="89">En Colombia los impuestos Nacionales </tspan><tspan x="0" y="113">son recaudados por la Dirección de </tspan><tspan x="0" y="137">Impuestos y Aduanas Nacionales (DIAN).</tspan></text>
+          <text id="es_el_deudor_de_la_obligación_tributaria_pueden_ser_personas_naturales_o_jurídicas_que_cumplen_con_los_requisitos_exigidos_por_la_norma_para_declarar_determinado_impuesto." data-name="es el deudor de la obligación tributaria, pueden ser personas naturales o jurídicas que cumplen con los requisitos exigidos por la norma para declarar determinado impuesto." transform="translate(949 4031.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">es el deudor de la obligación </tspan><tspan x="0" y="41">tributaria, pueden ser </tspan><tspan x="0" y="65">personas naturales o </tspan><tspan x="0" y="89">jurídicas que cumplen con </tspan><tspan x="0" y="113">los requisitos exigidos por la </tspan><tspan x="0" y="137">norma para declarar </tspan><tspan x="0" y="161">determinado impuesto.</tspan></text>
+          <text id="Son_los_actos_que_originan_la_obligación_tributaria._Por_ejemplo_la_compra_o_venta_de_un_producto_o_servicio._" data-name="Son los actos que originan la obligación tributaria. Por ejemplo, la compra o venta de un producto o servicio. " transform="translate(949 4325.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Son los actos que originan la </tspan><tspan x="0" y="41">obligación tributaria. Por </tspan><tspan x="0" y="65">ejemplo, la compra o venta </tspan><tspan x="0" y="89">de un producto o servicio. </tspan></text>
+          <text id="Es_el_valor_total_al_cual_se_le_aplica_la_tarifa_del_impuesto." data-name="Es el valor total al cual se le aplica la tarifa del impuesto." transform="translate(840 4585.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Es el valor total al cual se le </tspan><tspan x="0" y="41">aplica la tarifa del impuesto.</tspan></text>
+          <text id="Es_el_porcentaje_que_se_aplica_a_la_base_gravable_para_determinar_el_impuesto_a_cargo._Pinillos_J._2014_9-19._._" data-name="Es el porcentaje que se aplica a la base gravable para determinar el impuesto a cargo. Pinillos, J. (2014, 9-19.). " transform="translate(310 4722.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Es el porcentaje que se aplica a la base gravable para </tspan><tspan x="0" y="41">determinar el impuesto a cargo. Pinillos, J. (2014, </tspan><tspan x="0" y="65">9-19.). </tspan></text>
+          <text id="Sujeto_activo:_" data-name="Sujeto activo: " transform="translate(655 3887)" fill="#d9a171" font-size="24" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="4.559" y="23">Sujeto </tspan><tspan x="3.105" y="53">activo: </tspan></text>
+          <text id="Sujeto_Pasivo:_" data-name="Sujeto Pasivo: " transform="translate(787 4080)" fill="#d9a171" font-size="24" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="5.559" y="23">Sujeto </tspan><tspan x="2.225" y="53">Pasivo: </tspan></text>
+          <text id="Hecho_generador_del_impuesto:" data-name="Hecho generador del impuesto:" transform="translate(751 4326)" fill="#d9a171" font-size="20" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="42.938" y="19">Hecho </tspan><tspan x="7.254" y="49">generador del </tspan><tspan x="26.185" y="79">impuesto:</tspan></text>
+          <text id="Base_gravable:_" data-name="Base gravable: " transform="translate(653 4544)" fill="#d9a171" font-size="24" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="39.953" y="23">Base </tspan><tspan x="13.715" y="53">gravable: </tspan></text>
+          <g id="Grupo_26856" data-name="Grupo 26856" transform="translate(-64.296 -69)">
+            <g id="Grupo_26850" data-name="Grupo 26850" transform="translate(12 -6.226)">
+              <ellipse id="Elipse_945-5" data-name="Elipse 945" cx="100.5" cy="98.5" rx="100.5" ry="98.5" transform="matrix(1, -0.017, 0.017, 1, 382.296, 4600.734)" fill="#aed3f2"/>
+              <g id="Elipse_946-5" data-name="Elipse 946" transform="matrix(1, -0.017, 0.017, 1, 401.296, 4618.734)" fill="#f8f8f8" stroke="#7f9ab0" stroke-width="3">
+                <ellipse cx="82" cy="80.5" rx="82" ry="80.5" stroke="none"/>
+                <ellipse cx="82" cy="80.5" rx="80.5" ry="79" fill="none"/>
+              </g>
+            </g>
+            <text id="Tarifa:_" data-name="Tarifa: " transform="translate(451.296 4676)" fill="#d9a171" font-size="24" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="10.971" y="23">Tarifa: </tspan></text>
+          </g>
+        </g>
+        <g id="Grupo_27349" data-name="Grupo 27349" transform="translate(251.407 -11)">
+          <g id="Grupo_27348" data-name="Grupo 27348" transform="translate(0 1)">
+            <g id="Grupo_27347" data-name="Grupo 27347" transform="translate(-418.703 -559)">
+              <ellipse id="Elipse_945-6" data-name="Elipse 945" cx="226.858" cy="222.343" rx="226.858" ry="222.343" transform="matrix(1, -0.017, 0.017, 1, 382.296, 4605.144)" fill="#d9a171"/>
+              <g id="Elipse_946-6" data-name="Elipse 946" transform="matrix(1, -0.017, 0.017, 1, 425.184, 4645.775)" fill="#f8f8f8" stroke="#7f9ab0" stroke-width="3">
+                <ellipse cx="185.098" cy="181.712" rx="185.098" ry="181.712" stroke="none"/>
+                <ellipse cx="185.098" cy="181.712" rx="183.598" ry="180.212" fill="none"/>
+              </g>
+              <ellipse id="Elipse_948" data-name="Elipse 948" cx="175.911" cy="172.025" rx="175.911" ry="172.025" transform="matrix(1, -0.017, 0.017, 1, 433.757, 4655.004)" fill="#d9a171"/>
+              <ellipse id="Elipse_949" data-name="Elipse 949" cx="167.867" cy="165.61" rx="167.867" ry="165.61" transform="matrix(1, -0.017, 0.017, 1, 442.63, 4660.375)" fill="#f8f8f8"/>
+            </g>
+          </g>
+          <text id="Luego_de_estudiar_las_diferencias_entre_los_tributos:_tasas_contribuciones_e_impuestos_ahora_se_profundizará_en_las_generalidades_de_los_impuestos._Conforme_a_esto_se_relacionan_los_siguientes_elementos:" data-name="Luego de estudiar las diferencias entre los tributos: tasas, contribuciones e impuestos; ahora se profundizará en las generalidades de los impuestos. Conforme a esto, se relacionan los siguientes elementos:" transform="translate(93 4161.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Luego de estudiar las </tspan><tspan x="0" y="41">diferencias entre los </tspan><tspan x="0" y="65">tributos: tasas, </tspan><tspan x="0" y="89">contribuciones e impuestos; </tspan><tspan x="0" y="113">ahora se profundizará en las </tspan><tspan x="0" y="137">generalidades de los </tspan><tspan x="0" y="161">impuestos. Conforme a </tspan><tspan x="0" y="185">esto, se relacionan los </tspan><tspan x="0" y="209">siguientes elementos:</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,58 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },  
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "impuestos",
+    "title": "9. Impuestos",
+    "breadcrumb": ["Inicio","Tema 1"],
+    "path": "pages/1-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "impuestos",
+        "title": "9.1 Conceptos y elementos de los Impuestos",
+        "anchor": "91"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "impuestos",
+        "title": "9.2 Estructura y clasificación de los impuestos",
+        "anchor": "92"
+      }
+    ]
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "regimenes",
+    "title": "10. Regímenes",
+    "breadcrumb": ["Inicio","tema 2"],
+    "path": "pages/2-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "regimenes",
+        "title": "10.1 De acuerdo a normativa",
+        "anchor": "10_1"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "regimenes",
+        "title": "10.2 Contribuyente y declarante",
+        "anchor": "10_2"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "regimenes",
+        "title": "10.3 Responsabilidades",
+        "anchor": "10_3"
+      }
+    ]
+  }
+]

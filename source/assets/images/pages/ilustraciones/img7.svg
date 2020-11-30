@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="970" height="367.416" viewBox="0 0 970 367.416">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1.102" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a66d58"/>
+      <stop offset="0.1" stop-color="#937976"/>
+      <stop offset="0.22" stop-color="#828391"/>
+      <stop offset="0.35" stop-color="#758ba5"/>
+      <stop offset="0.5" stop-color="#6c91b4"/>
+      <stop offset="0.68" stop-color="#6794bc"/>
+      <stop offset="0.96" stop-color="#6595bf"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.12" y1="0.501" x2="1.222" y2="0.501" gradientUnits="objectBoundingBox">
+      <stop offset="0.05" stop-color="#6694be"/>
+      <stop offset="0.18" stop-color="#748ba7"/>
+      <stop offset="0.42" stop-color="#8a7e85"/>
+      <stop offset="0.63" stop-color="#99756c"/>
+      <stop offset="0.83" stop-color="#a36f5d"/>
+      <stop offset="1" stop-color="#a66d58"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.103" y1="0.501" x2="1.205" y2="0.501" xlink:href="#linear-gradient-2"/>
+    <linearGradient id="linear-gradient-4" x1="0.23" y1="0.494" x2="1.333" y2="0.494" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" x1="0.209" y1="0.495" x2="1.312" y2="0.495" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Grupo_28493" data-name="Grupo 28493" transform="translate(-215 -3199)">
+    <text id="Contraprestación_directa_por_un_servicio_prestado_por_ejemplo:_se_pagan_los_servicios_públicos_y_a_cambio_se_goza_del_servicio_de_energía_acueducto_etc." data-name="Contraprestación directa por un servicio prestado, por ejemplo: se pagan los servicios públicos y a cambio se goza del servicio de energía, acueducto, etc." transform="translate(264 3303.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Contraprestación directa </tspan><tspan x="0" y="41">por un servicio prestado, </tspan><tspan x="0" y="65">por ejemplo: se pagan los </tspan><tspan x="0" y="89">servicios públicos y a </tspan><tspan x="0" y="113">cambio se goza del </tspan><tspan x="0" y="137">servicio de energía, </tspan><tspan x="0" y="161">acueducto, etc.</tspan></text>
+    <text id="Son_tributos_que_paga_el_contribuyen_al_Estado_por_algún_beneficio_recibido._Por_ejemplo_es_el_caso_del_impuesto_de_valorización_cuando_el_Estado_realiza_inversiones_en_obras_y_la_zona_adquiere_un_mayor_valor." data-name="Son tributos que paga el contribuyen al Estado por algún beneficio recibido. Por ejemplo, es el caso del impuesto de valorización cuando el Estado realiza inversiones en obras y la zona adquiere un mayor valor." transform="translate(595 3280.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Son tributos que paga el </tspan><tspan x="0" y="41">contribuyen al Estado por </tspan><tspan x="0" y="65">algún beneficio recibido. </tspan><tspan x="0" y="89">Por ejemplo, es el caso </tspan><tspan x="0" y="113">del impuesto de </tspan><tspan x="0" y="137">valorización cuando el </tspan><tspan x="0" y="161">Estado realiza inversiones </tspan><tspan x="0" y="185">en obras y la zona </tspan><tspan x="0" y="209">adquiere un mayor valor.</tspan></text>
+    <text id="Son_aquellos_tributos_que_no_generan_contraprestación_alguna._Entre_ellos_encontramos:_impuesto_al_valor_agregado_IVA_impuesto_de_renta_y_complementarios._Es_una_obligación_sustancial_que_debe_darse_cumplimiento_si_contempla_todos_los_requisitos_para_" data-name="Son aquellos tributos que no generan contraprestación alguna. Entre ellos, encontramos: impuesto al valor agregado (IVA), impuesto de renta y complementarios. Es una obligación sustancial, que debe darse cumplimiento si contempla todos los requisitos para " transform="translate(909 3258.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Son aquellos tributos que </tspan><tspan x="0" y="41">no generan </tspan><tspan x="0" y="65">contraprestación alguna. </tspan><tspan x="0" y="89">Entre ellos, encontramos: </tspan><tspan x="0" y="113">impuesto al valor agregado </tspan><tspan x="0" y="137">(IVA), impuesto de renta y </tspan><tspan x="0" y="161">complementarios. Es una </tspan><tspan x="0" y="185">obligación sustancial, que </tspan><tspan x="0" y="209">debe darse cumplimiento si </tspan><tspan x="0" y="233">contempla todos los </tspan><tspan x="0" y="257">requisitos para su </tspan></text>
+    <g id="Recurso_22" data-name="Recurso 22" transform="translate(215 3221.001)" style="isolation: isolate">
+      <g id="Capa_2" data-name="Capa 2" transform="translate(0 -0.001)">
+        <g id="Capa_8" data-name="Capa 8">
+          <path id="Trazado_63819" data-name="Trazado 63819" d="M57.909,7.779,241.575,8.2c27.5,0,53.128,21.608,57.139,48.118l16.8,110.848,7.914-1.134-16.8-110.848C302.063,25.052,272.879.486,241.588.405L57.936,0A57.72,57.72,0,0,0,17.421,16.287,54.614,54.614,0,0,0,.5,55.64L0,276.121a54.668,54.668,0,0,0,16.746,39.434,57.653,57.653,0,0,0,40.515,16.462l220.2.5a16.787,16.787,0,1,0,0-7.779l-220.129-.5c-27.2,0-49.266-21.608-49.212-48.091L8.495,55.654C8.549,29.2,30.724,7.725,57.909,7.779ZM294.244,319.741a8.994,8.994,0,1,1-9.264,8.967,9.129,9.129,0,0,1,9.21-9.035Z" transform="translate(0 0.001)" fill="url(#linear-gradient)"/>
+          <path id="Trazado_63820" data-name="Trazado 63820" d="M536.661,55.539C531.651,25.491,502.048,1.034,470.784.953L259.42.48V8.272l211.351.473c27.536,0,53.56,21.608,58.071,48.05l18.731,110.983,7.887-1.256Z" transform="translate(90.923 0.169)" fill="url(#linear-gradient-2)"/>
+          <path id="Trazado_63821" data-name="Trazado 63821" d="M518.508,279.6l4.5,2.809-201.965-.459c-27.55,0-54.019-21.608-58.868-47.969L241.523,122.85l-7.873,1.35L254.3,235.345c5.564,29.9,35.491,54.29,66.727,54.371l201.965.446-4.511,2.8,4.295,6.563,21.311-13.208-21.243-13.289Z" transform="translate(81.891 43.058)" fill="url(#linear-gradient-3)"/>
+          <path id="Trazado_63822" data-name="Trazado 63822" d="M776.331,55.476C771.267,25.509,741.7.97,710.441.9L499.09.43V8.209l211.365.473c27.523,0,53.547,21.608,58,48.05l18.731,111,7.887-1.269Z" transform="translate(174.924 0.152)" fill="url(#linear-gradient-4)"/>
+          <path id="Trazado_63823" data-name="Trazado 63823" d="M758.192,279.541l4.5,2.809L560.683,281.9c-27.563-.068-54.019-21.608-58.881-47.969L481.153,122.79l-7.873,1.35,20.662,111.131c5.551,29.913,35.491,54.3,66.728,54.371l201.952.459-4.511,2.782,4.308,6.563,21.3-13.194-21.2-13.275Z" transform="translate(165.878 43.037)" fill="url(#linear-gradient-5)"/>
+        </g>
+      </g>
+    </g>
+    <rect id="Rectángulo_29114" data-name="Rectángulo 29114" width="132" height="44" rx="15" transform="translate(288 3199)" fill="#a66d58"/>
+    <rect id="Rectángulo_29173" data-name="Rectángulo 29173" width="204" height="44" rx="15" transform="translate(587 3199)" fill="#a66d58"/>
+    <rect id="Rectángulo_29174" data-name="Rectángulo 29174" width="175" height="44" rx="15" transform="translate(938 3199)" fill="#a66d58"/>
+    <text id="Tasas" transform="translate(317 3204.5)" fill="#fff" font-size="24" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="23">Tasas</tspan></text>
+    <text id="Contribuciones" transform="translate(601 3204.5)" fill="#fff" font-size="24" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="23">Contribuciones</tspan></text>
+    <text id="Impuestos" transform="translate(962 3204.5)" fill="#fff" font-size="24" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="23">Impuestos</tspan></text>
+  </g>
+</svg>
